@@ -34,11 +34,12 @@ class Main {
      */
 
     // Escrever na tela
-    System.out.println("Hello world!");
+    System.out.println("#### Escrever na tela ####");
+    System.out.println("Olá Mundo");
     System.out.println("");
 
     // VARIÁVEIS
-    System.out.println("### IMPRIMINDO VARIÁVEIS ###");
+    System.out.println("### VARIÁVEIS ###");
     System.out.println("Nome: " + nome);
     System.out.println("Idade: " + idade);
     System.out.println("Sexo: " + sexo);
@@ -47,11 +48,11 @@ class Main {
     System.out.println("");
 
     // CONSTANTE
-    System.out.println("### IMPRIMINDO CONSTANTE ###");
+    System.out.println("### CONSTANTE ###");
     System.out.println("PI: " + PI);
     System.out.println("");
 
-    
+    // OPERACOES
     System.out.println("#### OPERACOES ####");
     System.out.print("Informe o valor 1: ");
     val1 = myObj.nextInt();
