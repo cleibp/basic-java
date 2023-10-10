@@ -25,7 +25,7 @@ Exemplificação da sintaxe geral e básica da Linguagem Java
 ```sh
 .
 ├── Main.java
-├── README.md
+└── README.md
 ```
 
 ## 👋🏽 DEMO
